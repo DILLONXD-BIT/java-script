@@ -1,0 +1,48 @@
+.main {
+    background-color: azure;
+}
+
+.tom {
+    background-color: red;
+    width: 70px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: auto;
+    
+}
+
+.john {
+    background-color: blue;
+    width: 70px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: auto;
+}
+.fin {
+    background-color: yellow;
+    width: 70px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: auto;
+}
+.rob {
+    background-color: green;
+    width: 70px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: auto;
+}
+.pin {
+    background-color:orange;
+    width: 70px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: auto;
+}
+.web {
+    background-color: grey;
+    width: 70px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: auto;
+}

@@ -43,3 +43,51 @@ u%=3
 console.log(u)
 u**=2
 console.log(u)
+
+//comparison operators
+console.log(true=="true")
+console.log(4=="4")
+console.log(4==="4")
+//example comparison operators
+console.log(2==2)
+console.log(1=="2")
+console.log(1==="1")
+//not equal
+console.log(2!=3)
+console.log(!3==4)
+//greater than
+console.log(4>2)
+//les than
+console.log(4<9)
+//greater than or equal to
+console.log(0>=3)
+//less than or equal to
+console.log(4<=8)
+//string comparison
+let text1="A"
+let text2="B"
+let result=text1<text2
+console.log(result)
+//string addition
+let text3="johny"
+let text4="deep"
+let text5=text3+" "+text4
+console.log(text5)
+let text6="what a very"
+text6+= "nice day"
+console.log(text6)
+//adding strings and numbers
+let e=5+5
+console.log(e)
+let l="5"+5
+console.log(l)
+let a="with"+3
+console.log(a)
+//and operator
+let v=8
+let h=2
+console.log(v>h && h<v)
+//or opperator
+let z=90
+let c=100
+console.log(z<c||c<z)
