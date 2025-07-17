@@ -4,6 +4,7 @@ import { statement } from './china.js'
 import { multiply } from './china.js'
 import { words } from './china.js'
 import  bread from './kenya.js'
+import Person from './germany.js'
 console.log(bread())
 console.log(x)
 console.log(e)
@@ -14,3 +15,4 @@ console.log(jarvis(5,4))
 console.log(statement())
 console.log(multiply(5,5))
 console.log(words())
+console.log(Person())
